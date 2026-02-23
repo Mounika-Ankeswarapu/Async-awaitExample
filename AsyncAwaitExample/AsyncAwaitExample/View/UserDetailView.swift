@@ -30,7 +30,7 @@ struct UserDetailView: View {
                         .font(.title)
                     Text(user.email)
                     Text(user.phone)
-                    Text("Hi")
+                    Text("Hello There..!")
                     
                 }
             }
